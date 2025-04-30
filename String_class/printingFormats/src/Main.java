@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        //System.out.printf();
+        //System.out.print();
         System.out.print("Hello\n");
+        //System.out.printf();
         String name = "Josh";
         int val=4;
         float num = 11.67f;
